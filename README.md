@@ -6,7 +6,7 @@
 ## web.xml
 - <url-pattern>/</url-pattern>
 
-#Tomcat 추가
+# Tomcat 추가
 - HTTP port : 8080
 - JMX port : 1099
 - fix
