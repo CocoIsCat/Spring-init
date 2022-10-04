@@ -30,6 +30,9 @@
 <url-pattern>/</url-pattern>
 ```
 
+## WEB-INF에 views 추가
+- index.jsp 이동
+
 ## Tomcat 추가
 - HTTP port : 8080
 - JMX port : 1099
